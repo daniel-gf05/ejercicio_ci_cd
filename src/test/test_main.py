@@ -8,3 +8,6 @@ def test_toUpper():
 
 def test_toLower():
     assert toLower('daniel') == 'DANIEL'
+    
+def hola():
+    return 'hola'
