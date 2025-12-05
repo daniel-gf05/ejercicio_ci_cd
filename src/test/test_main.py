@@ -11,3 +11,6 @@ def test_toLower():
     
 def hola():
     return 'hola'
+
+def adios():
+    return 'adios'
